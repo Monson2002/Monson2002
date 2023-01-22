@@ -1,4 +1,4 @@
-MY portfolio 👉 [https://monson2002.github.io/Personal-Portfolio/index.html](https://monson2002-portfolio-2023.netlify.app/)
+MY portfolio 👉 [Click Here](https://monson2002-portfolio-2023.netlify.app/)
 - 👋 Hi, I’m Monson2002
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning computer science
