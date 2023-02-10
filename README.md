@@ -16,9 +16,6 @@ I am a Computer Science undergrad and a passionate web developer who wants to tr
 ### Hacktoberfest 2022 Badges
 [![@monson2002's Holopin board](https://holopin.me/monson2002)](https://holopin.io/@monson2002)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 
 [![](https://visitcount.itsvg.in/api?id=monson2002&icon=7&color=3)](https://visitcount.itsvg.in)
 
