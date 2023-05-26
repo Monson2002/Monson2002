@@ -1,7 +1,7 @@
 MY portfolio 👉 [Click Here](https://monson2002-portfolio-2023.netlify.app/)
 
 # 💫 About Me:
-I am a Computer Science undergrad and a passionate web developer who wants to try out and explore different ways to create a frontend website in the best possible and minimalistic way. I mostly use React JS and Tailwind CSS as a go to tool alongwith others In addition to that. I am comfortable in Python for normal programming purposes. My first foray into open-source was Hacktoberfest 2022.
+I am a Computer Science undergrad and a passionate web developer. I mostly use React JS and Tailwind CSS as a go to tool, alongwith others, in addition. I am comfortable in Python for normal programming purposes. My first foray into open-source was Hacktoberfest 2022.
 
 
 ## 🌐 Socials:
