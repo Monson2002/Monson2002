@@ -13,7 +13,7 @@ I am a Computer Science undergrad and a passionate web developer. I mostly use R
 ![](https://github-readme-stats.vercel.app/api?username=monson2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monson2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monson2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### Hacktoberfest 2022 Badges
+### Hacktoberfest Badges
 [![@monson2002's Holopin board](https://holopin.me/monson2002)](https://holopin.io/@monson2002)
 
 
