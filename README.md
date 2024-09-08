@@ -1,7 +1,7 @@
 MY portfolio 👉 [Click Here](https://monson2002-portfolio-2023.netlify.app/)
 
 # 💫 About Me:
-I am a Computer Science undergrad and a passionate web developer, currently working as an Intern at Coditas, Pune. I mostly use React JS and Tailwind CSS as a go to tool, alongwith others, in addition. I am comfortable in Python and JavaScript for normal programming purposes.
+I am a Machine Learning master's student and a passionate web developer, who has worked as an Intern at Coditas, Pune. I mostly use React JS and Tailwind CSS as a go-to tool, along with others, in addition. I am comfortable in Python and JavaScript for normal programming purposes.
 
 
 ## 🌐 Socials:
