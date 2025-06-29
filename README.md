@@ -1,7 +1,7 @@
 MY portfolio 👉 [Click Here](https://monson2002-portfolio-2023.netlify.app/)
 
 # 💫 About Me:
-I am pursuing an MTech in Machine Learning and am a passionate web developer, who has worked as an Intern at Coditas, Pune. I mostly use React JS and Tailwind CSS as go-to tools, along with others. I am comfortable in Python and JavaScript for normal programming purposes.
+I am pursuing a masters in Machine Learning and am a passionate web developer, who has worked as an Intern at Coditas, Pune. I mostly use React JS and Tailwind CSS as go-to tools, along with others. I am comfortable in Python and JavaScript for normal programming purposes.
 
 
 ## 🌐 Socials:
